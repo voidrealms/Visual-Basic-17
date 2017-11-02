@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsApp stack 17", "ConsApp stack 17\ConsApp stack 17.vbproj", "{35E68B9A-1155-4F0F-8A5F-D480EC071FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E68B9A-1155-4F0F-8A5F-D480EC071FED}.Debug|x86.ActiveCfg = Debug|x86
+		{35E68B9A-1155-4F0F-8A5F-D480EC071FED}.Debug|x86.Build.0 = Debug|x86
+		{35E68B9A-1155-4F0F-8A5F-D480EC071FED}.Release|x86.ActiveCfg = Release|x86
+		{35E68B9A-1155-4F0F-8A5F-D480EC071FED}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
